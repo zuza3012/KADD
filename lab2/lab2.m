@@ -12,7 +12,6 @@ q = mydblquad(f,-inf,inf,-inf,inf)
 x = -5:0.25:5;
 y = x;
 
-
 [xg,yg] = meshgrid(x,y);
 l = length(xg);
 F = 1/q *(1 / (sqrt(varX*varY*(1-rho^2))*2*pi) * exp(-1 / (2*(1- rho^2)) * ((xg - muX).^2 / varX + (yg - muY).^2 / varY - 2*rho.*(xg-muX)*(yg-muY)/(varX*varY))));
