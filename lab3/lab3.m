@@ -28,8 +28,6 @@ x = 0:0.25:max(r(:))+width;
 ff = arrayfun(f,x)*C1;
 
 % generowanie danych do wykresy g(x)
-
-
 xx = min(rand_g(:)):0.25:max(rand_g(:));
 gg = arrayfun(g,xx)*C2;
 
