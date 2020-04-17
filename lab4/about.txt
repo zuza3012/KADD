@@ -1,0 +1,3 @@
+1. Obliczenie pole jednostkowego koła metodą Monte Carlo.
+2. Metoda eliminacji-akceptacji (metodę von Neumana) -  wyznaczene 1000 liczb pseudolosowych z rozkładu namiotowego. Narysowanie histogramu.
+3. Metoda Monte Carlo w N wymiarach.

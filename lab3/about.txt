@@ -1,0 +1,3 @@
+0.Dystrybuanty dla funkcji f i g.
+1. Z wykorzystaniem funkcji rand stwórzenie listy 100 liczb pseudolosowych z rozkładu jednostajnego, a następnie, stosując metodę odwrotnej dystrybuanty i wynik zadania 0 wygenerowanie liczb pseudolosowych z rozkładu o gęstości f.
+2. Wykreślić odpowiednio unormowany histoa numeryczna, która umożliwia liczenie funkcji odwrotnej do dystrybuanty rozkładu g.

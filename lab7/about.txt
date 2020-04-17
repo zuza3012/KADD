@@ -1,0 +1,2 @@
+1. Porównanie funkcje gęstości prawdopodobieństwa sumy dwóch niezależnych zmiennych losowych o rozkładzie jednostajnym (w przedziale od -1 do 1), z wykresami uzyskanymi poprzez splatanie (funkcja conv) ich gęstości.
+2.  Splot "n-krotny" w celu otrzymania rozkładu będziej przypominającego rozkład Gaussa. 

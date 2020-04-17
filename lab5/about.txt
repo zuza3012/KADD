@@ -1,0 +1,5 @@
+1. Metodą eliminacji-akceptacji z funkcją pomocniczą postaci g(x) = cos(x) wyzanczono około 105 liczb pseudolosowych o rozkładzie zadanym gęstością f.
+2.
+• Wyznaczenie dystrybuanty empirycznej.
+• Wyestymowanie wartości oczekiwanej, wariancji, mediany i pozostałych kwartyli.
+3.Naniesienie krzywej teoretycznej, tabela.

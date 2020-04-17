@@ -1,0 +1,3 @@
+1. Animacja jednej realizacji deski Galtona. 
+2. Histogram wartości położeń na końcu desk, uśredniając po 10^5 realizacjach, animacja w funkcji czasu.
+3. Dopasowanie krzywej Gaussa do każdego z histogramów.

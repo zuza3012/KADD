@@ -1,0 +1,4 @@
+Rozważamy rozkład prawdopodobieństwa dwuwymiarowej zmiennej losowej (X,Y) posiadający funkcję gęstości (patrz skrypt)
+1.Podziel wykres na cztery mniejsze części. Na dwóch pierwszych, używając funkcji meshgrid i surf narysuj trójwymiarowy wykres funkcji f oraz odpowiadającej jej dystrybuanty.
+2.Na dwóch pozostałych częściach rysunku umieść wykresy rozkładów brzegowych dla każdej ze zmiennych losowych. Podpisz wszystkie wykresy.
+3. Wyznacz wartości oczekiwane, wszystkie współrzędne macierzy kowariancji oraz współczynnik korelacji (ten ostatni dwiema metodami), licząc odpowiednie całki (funkcje integral i sum). Porównaj wyniki z założonymi na początku stałymi oraz wypisz je na wykresie.
