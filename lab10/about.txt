@@ -1,0 +1,1 @@
+Wczytywanie danych z pliku csv, błądzenie losowe, generowanie danych z dowolnego rozkłądu - bładzenie losowe + zapis do pliku csv
