@@ -1,0 +1,1 @@
+Metoda najmniejszych kwadratów uogólniona na wieloman n-tego stopnia, test chi2 dopasowania danych do wielomianu
